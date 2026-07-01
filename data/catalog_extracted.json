@@ -1,0 +1,317 @@
+[
+  {
+    "name": "Occupational Personality Questionnaire OPQ32r",
+    "url": "https://www.shl.com/products/product-catalog/view/occupational-personality-questionnaire-opq32r/",
+    "test_type": "P",
+    "test_type_raw": "Personality & Behavior",
+    "duration": "25 minutes",
+    "languages": "English International, French (Canada), Portuguese, Chinese Simplified _(+35 more)_",
+    "description": ""
+  },
+  {
+    "name": "OPQ Universal Competency Report 2.0",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-universal-competency-report-2-0/",
+    "test_type": "P",
+    "test_type_raw": "Personality & Behavior",
+    "duration": "—",
+    "languages": "—",
+    "description": ""
+  },
+  {
+    "name": "OPQ Leadership Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-leadership-report/",
+    "test_type": "P",
+    "test_type_raw": "Personality & Behavior",
+    "duration": "—",
+    "languages": "Dutch, English International, English (USA), Romanian _(+10 more)_",
+    "description": ""
+  },
+  {
+    "name": "SHL Verify Interactive G+",
+    "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-g/",
+    "test_type": "A",
+    "test_type_raw": "Ability & Aptitude",
+    "duration": "36 minutes",
+    "languages": "English (USA), Chinese Traditional, Korean, Serbian _(+29 more)_",
+    "description": ""
+  },
+  {
+    "name": "Graduate Scenarios",
+    "url": "https://www.shl.com/products/product-catalog/view/graduate-scenarios/",
+    "test_type": "B",
+    "test_type_raw": "Biodata & Situational Judgment",
+    "duration": "Untimed",
+    "languages": "English International",
+    "description": ""
+  },
+  {
+    "name": "Smart Interview Live Coding",
+    "url": "https://www.shl.com/products/product-catalog/view/smart-interview-live-coding/",
+    "test_type": "K",
+    "test_type_raw": "Knowledge & Skills",
+    "duration": "Variable",
+    "languages": "English (USA)",
+    "description": ""
+  },
+  {
+    "name": "Linux Programming (General)",
+    "url": "https://www.shl.com/products/product-catalog/view/linux-programming-general/",
+    "test_type": "K",
+    "test_type_raw": "Knowledge & Skills",
+    "duration": "25 minutes",
+    "languages": "English (USA)",
+    "description": ""
+  },
+  {
+    "name": "Networking and Implementation (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/networking-and-implementation-new/",
+    "test_type": "K",
+    "test_type_raw": "Knowledge & Skills",
+    "duration": "7 minutes",
+    "languages": "English (USA)",
+    "description": ""
+  },
+  {
+    "name": "SVAR Spoken English (US) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-english-us-new/",
+    "test_type": "K",
+    "test_type_raw": "Simulations",
+    "duration": "-",
+    "languages": "English (USA)",
+    "description": ""
+  },
+  {
+    "name": "Contact Center Call Simulation (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/contact-center-call-simulation-new/",
+    "test_type": "S",
+    "test_type_raw": "Simulations",
+    "duration": "15 minutes",
+    "languages": "English (USA)",
+    "description": ""
+  },
+  {
+    "name": "Entry Level Customer Serv - Retail & Contact Center",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-customer-serv-retail-and-contact-center/",
+    "test_type": "P,C",
+    "test_type_raw": "Personality & Behavior, Competencies",
+    "duration": "19 minutes",
+    "languages": "Latin American Spanish, German, French, Chinese Simplified _(+10 more)_",
+    "description": ""
+  },
+  {
+    "name": "Customer Service Phone Simulation",
+    "url": "https://www.shl.com/products/product-catalog/view/customer-service-phone-simulation/",
+    "test_type": "B,S",
+    "test_type_raw": "Biodata & Situational Judgment, Simulations",
+    "duration": "20 minutes",
+    "languages": "French (Canada), Portuguese (Brazil), Dutch, Italian _(+7 more)_",
+    "description": ""
+  },
+  {
+    "name": "SHL Verify Interactive – Numerical Reasoning",
+    "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-numerical-reasoning/",
+    "test_type": "A,S",
+    "test_type_raw": "Ability & Aptitude, Simulations",
+    "duration": "20 minutes",
+    "languages": "French, German, Italian, Dutch _(+30 more)_",
+    "description": ""
+  },
+  {
+    "name": "Financial Accounting (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/financial-accounting-new/",
+    "test_type": "K",
+    "test_type_raw": "Knowledge & Skills",
+    "duration": "9 minutes",
+    "languages": "English (USA)",
+    "description": ""
+  },
+  {
+    "name": "Basic Statistics (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/basic-statistics-new/",
+    "test_type": "K",
+    "test_type_raw": "Knowledge & Skills",
+    "duration": "10 minutes",
+    "languages": "English (USA)",
+    "description": ""
+  },
+  {
+    "name": "Global Skills Assessment",
+    "url": "https://www.shl.com/products/product-catalog/view/global-skills-assessment/",
+    "test_type": "C, K",
+    "test_type_raw": "Competencies, Knowledge & Skills",
+    "duration": "16 minutes",
+    "languages": "Indonesian, Italian, Swedish, Thai, Portuguese (Brazil) _(+19 more)_",
+    "description": ""
+  },
+  {
+    "name": "Global Skills Development Report",
+    "url": "https://www.shl.com/products/product-catalog/view/global-skills-development-report/",
+    "test_type": "D",
+    "test_type_raw": "Ability & Aptitude, Assessment Exercises, Biodata & Situational Judgment, Competencies, Development & 360, Personality & Behavior",
+    "duration": "—",
+    "languages": "—",
+    "description": ""
+  },
+  {
+    "name": "OPQ MQ Sales Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-mq-sales-report/",
+    "test_type": "P",
+    "test_type_raw": "Personality & Behavior",
+    "duration": "—",
+    "languages": "Portuguese (Brazil), Spanish, Danish, Dutch, Finnish _(+24 more)_",
+    "description": ""
+  },
+  {
+    "name": "Sales Transformation 2.0 - Individual Contributor",
+    "url": "https://www.shl.com/products/product-catalog/view/salestransformationreport2-0-individualcontributor/",
+    "test_type": "P",
+    "test_type_raw": "Personality & Behavior",
+    "duration": "—",
+    "languages": "—",
+    "description": ""
+  },
+  {
+    "name": "Dependability and Safety Instrument (DSI)",
+    "url": "https://www.shl.com/products/product-catalog/view/dependability-and-safety-instrument-dsi/",
+    "test_type": "P",
+    "test_type_raw": "Personality & Behavior",
+    "duration": "10 minutes",
+    "languages": "Portuguese (Brazil), Chinese Traditional, Danish, Dutch _(+13 more)_",
+    "description": ""
+  },
+  {
+    "name": "Manufac. & Indust. - Safety & Dependability 8.0",
+    "url": "https://www.shl.com/products/product-catalog/view/safety-and-dependability-focus-8-0/",
+    "test_type": "P",
+    "test_type_raw": "Personality & Behavior",
+    "duration": "16 minutes",
+    "languages": "English (USA), German, Latin American Spanish, French _(+4 more)_",
+    "description": ""
+  },
+  {
+    "name": "Workplace Health and Safety (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/workplace-health-and-safety-new/",
+    "test_type": "K",
+    "test_type_raw": "Knowledge & Skills",
+    "duration": "9 minutes",
+    "languages": "English (USA)",
+    "description": ""
+  },
+  {
+    "name": "HIPAA (Security)",
+    "url": "https://www.shl.com/products/product-catalog/view/hipaa-security/",
+    "test_type": "K",
+    "test_type_raw": "Knowledge & Skills",
+    "duration": "15 minutes",
+    "languages": "English (USA)",
+    "description": ""
+  },
+  {
+    "name": "Medical Terminology (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/medical-terminology-new/",
+    "test_type": "K",
+    "test_type_raw": "Knowledge & Skills",
+    "duration": "3 minutes",
+    "languages": "English (USA)",
+    "description": ""
+  },
+  {
+    "name": "Microsoft Word 365 - Essentials (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-word-365-essentials-new/",
+    "test_type": "K,S",
+    "test_type_raw": "Knowledge & Skills, Simulations",
+    "duration": "25 minutes",
+    "languages": "English (USA)",
+    "description": ""
+  },
+  {
+    "name": "MS Excel (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ms-excel-new/",
+    "test_type": "K",
+    "test_type_raw": "Knowledge & Skills",
+    "duration": "6 minutes",
+    "languages": "English (USA), Spanish, French, Portuguese (Brazil)",
+    "description": ""
+  },
+  {
+    "name": "MS Word (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ms-word-new/",
+    "test_type": "K",
+    "test_type_raw": "Knowledge & Skills",
+    "duration": "4 minutes",
+    "languages": "Spanish, French, Portuguese (Brazil), English (USA)",
+    "description": ""
+  },
+  {
+    "name": "Microsoft Excel 365 (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-excel-365-new/",
+    "test_type": "K,S",
+    "test_type_raw": "Knowledge & Skills, Simulations",
+    "duration": "35 minutes",
+    "languages": "English (USA)",
+    "description": ""
+  },
+  {
+    "name": "Microsoft Word 365 (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-word-365-new/",
+    "test_type": "K,S",
+    "test_type_raw": "Simulations, Knowledge & Skills",
+    "duration": "35 minutes",
+    "languages": "English (USA)",
+    "description": ""
+  },
+  {
+    "name": "Core Java (Advanced Level) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/core-java-advanced-level-new/",
+    "test_type": "K",
+    "test_type_raw": "Knowledge & Skills",
+    "duration": "13 minutes",
+    "languages": "English (USA)",
+    "description": ""
+  },
+  {
+    "name": "Spring (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/spring-new/",
+    "test_type": "K",
+    "test_type_raw": "Knowledge & Skills",
+    "duration": "9 minutes",
+    "languages": "English (USA)",
+    "description": ""
+  },
+  {
+    "name": "RESTful Web Services (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/restful-web-services-new/",
+    "test_type": "K",
+    "test_type_raw": "Knowledge & Skills",
+    "duration": "12 minutes",
+    "languages": "English (USA)",
+    "description": ""
+  },
+  {
+    "name": "SQL (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sql-new/",
+    "test_type": "K",
+    "test_type_raw": "Knowledge & Skills",
+    "duration": "9 minutes",
+    "languages": "English (USA)",
+    "description": ""
+  },
+  {
+    "name": "Amazon Web Services (AWS) Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/amazon-web-services-aws-development-new/",
+    "test_type": "K",
+    "test_type_raw": "Knowledge & Skills",
+    "duration": "6 minutes",
+    "languages": "English (USA)",
+    "description": ""
+  },
+  {
+    "name": "Docker (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/docker-new/",
+    "test_type": "K",
+    "test_type_raw": "Knowledge & Skills",
+    "duration": "10 minutes",
+    "languages": "English (USA)",
+    "description": ""
+  }
+]
