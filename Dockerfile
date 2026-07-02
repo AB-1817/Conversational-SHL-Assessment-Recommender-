@@ -20,6 +20,9 @@ COPY main.py    .
 # Pre-built catalog data (committed to repo after scraping)
 COPY data/      data/
 
+# Generate the FAISS search index during build
+RUN python -m indexer.build_index
+
 # Expose port
 EXPOSE 8000
 
